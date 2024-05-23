@@ -1,0 +1,8 @@
+# 本地虚拟环境
+venv
+
+# 缓存目录
+_temp*
+
+# 非开源数据集
+math_physics
